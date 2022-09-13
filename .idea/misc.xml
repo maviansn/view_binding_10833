@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Coding/PBP/GD/GD4_A_10833/view_binding_10833/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Coding/PBP/GD/GD4_A_10833/view_binding_10833/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Coding/PBP/GD/GD4_A_10833/view_binding_10833/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Coding/PBP/GD/GD4_A_10833/view_binding_10833/app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
         <entry key="..\:/Coding/PBP/UGD/view_binding_10833/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Coding/PBP/UGD/view_binding_10833/app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
       </map>
